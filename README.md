@@ -39,6 +39,8 @@ Users should be able to:
    ![](/FirefoxDesktopScreenshit.JPG)
 2. I think it has to do with the way my .card was styled as the white background also shrinks without the text shrinking as well when making my chrome window smaller.
    ![](/FirefoxDesktopScreenshit.JPG)
+3. Perfume bottle image not displaying on my Github pages site. Any ideas?
+   ![](/GithubPagesImageNoDisplay.JPG)
 
 ### Built with
 
